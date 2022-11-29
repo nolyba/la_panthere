@@ -1,4 +1,7 @@
 ﻿# la_panthere
  
- 
- https://nolyba.github.io/la_panthere_optimise/
+SITE ORIGINAL :
+https://nolyba.github.io/la_panthere/ 
+
+SITE OPTIMISE :
+https://nolyba.github.io/la_panthere_optimise/
